@@ -1,0 +1,76 @@
+.box20 {
+    margin-top: 50px;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.bga {
+    background-color: rgb(206, 109, 200);
+}
+
+.bgb {
+    background-color: rgb(130, 228, 241);
+}
+
+.bgc {
+    background-color: rgb(181, 228, 125);
+}
+
+.bgd {
+    background-color: rgb(240, 179, 66);
+}
+
+.box1 {
+    margin-left: 3%;
+    width: 35%;
+    background-color: rgb(9, 70, 70);
+    border-radius: 25px;
+    color: white;
+    font-size: larger;
+}
+
+.box2 {
+    width: 45%;
+    margin-left: 8%;
+}
+.horl{
+    background-color: rgb(239, 222, 218);
+    height: 2px;
+    width: 95%;
+    margin: auto;
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+.size1{
+    font-size: 25px;
+}
+.size2{
+    font-size: 45px;
+}
+.size3{
+    font-size: 25px;
+}
+.size4{
+    font-size: 30px;
+}
+.icn{
+    font-size: 120px;
+    color: aliceblue;
+    margin: auto;
+    text-align: center;
+}
+.coll{
+width: 30%;
+}
+.colr{
+    width: 60%;
+}
+.colm{
+    width: 2%;
+}

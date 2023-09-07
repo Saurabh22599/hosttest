@@ -1,0 +1,55 @@
+.titlebox{
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    background-color: #17252a;
+    padding: 30px;
+    text-align: center;
+    width: 50%;
+    border-radius: 20px;
+    margin: auto;
+    border-color: aquamarine;
+    border-style: double;
+    border-width: medium;
+}
+.emptydiv{
+    min-height: 100px;
+}
+.rowid{
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+.empBut{
+    background-color: rgb(148, 12, 69);
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px;
+    font-size: large;
+    border: none;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+margin-left: 0px;
+
+}
+.adBut{
+    background-color: rgb(114, 22, 135);
+    border-radius: 10px;
+    width: 120px;
+    padding: 10px;
+    font-size: large;
+    border: none;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.test{
+    width: 50%;
+    margin: auto;
+}
+.wid{
+    width: 70%;
+    margin: auto;
+}

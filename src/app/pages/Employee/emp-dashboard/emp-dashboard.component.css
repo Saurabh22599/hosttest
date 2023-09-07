@@ -1,0 +1,25 @@
+.bg{
+    background-color: rgb(9, 70, 70);
+}
+.clrw{
+    font-size: large;
+    padding: 2px 20px;
+    margin: 3px 20px;
+    color: rgb(239, 236, 236);
+}
+.clr{
+    font-size: medium;
+    padding: 3px 10px;
+    margin: 3px 12px;
+    color: rgb(191, 223, 10);
+}
+.brk{
+    background-color: white;
+    min-width: 3px;
+}
+.icn{
+    color: rgb(191, 223, 10);
+    font-size: x-large;
+    margin-left: 30px;
+}
+

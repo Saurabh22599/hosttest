@@ -1,0 +1,25 @@
+<div class="emptydiv"></div>
+<div class="titlebox">
+    <form action="">
+
+        <div class="wid">
+            <div> <input #username="ngModel" name="username" [(ngModel)]="employee.username" type="text"
+                    class="form-control mt-5" placeholder="Username" required></div>
+
+            <div> <input #password="ngModel" name="password" [(ngModel)]="employee.password" type="password"
+                    class="form-control mt-5 mb-3" placeholder="Password" required></div>
+
+                    
+        </div>
+
+        <div class="row text-center rowid">
+
+            <div class="text-center test"><button type="submit" class="empBut" routerLink="dashboard">Login</button></div>
+                    <!-- [disabled]="username.errors || password.errors"  -->
+
+            <div class="text-center test"><button routerLink="../" type="button" class="adBut">Back</button></div>
+
+        </div>
+    </form>
+
+</div>
